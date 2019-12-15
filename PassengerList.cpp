@@ -1,5 +1,5 @@
 #include "PassengerList.h"
-
+/*parametric constructor*/
 PassengerList::PassengerList(cNodePassenger*& ptr)
 {
 	topPassenger = ptr;
