@@ -6,7 +6,7 @@ PassengerList::PassengerList(cNodePassenger*& ptr)
 	countPassenger = 1;
 	topPassenger->nextP = ptr = NULL;
 }
-
+/* return the total passenger*/
 int PassengerList::getcountPassenger()
 {
 	return countPassenger;
