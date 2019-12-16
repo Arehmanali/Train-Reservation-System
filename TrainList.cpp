@@ -10,6 +10,7 @@ TrainList::TrainList()
 	countTrain = 0;
 }
 
+/ Parametric Constructor*/
 TrainList::TrainList(cNode*& ptr)
 {
 	upTrain = ptr;
