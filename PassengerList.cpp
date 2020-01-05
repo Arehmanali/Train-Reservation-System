@@ -429,7 +429,7 @@ void PassengerList::newBooking(string name, string id)
 			}
 
 }
-
+/* Camcel function for canceling the reserved ticket*/
 void PassengerList::cancelBooking(string id)
 {
 	int option;
