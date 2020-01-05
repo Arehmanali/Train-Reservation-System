@@ -12,6 +12,7 @@ int PassengerList::getcountPassenger()
 	return countPassenger;
 }
 
+/* Booking of new Tickets*/
 void PassengerList::newBooking(string name, string id)
 {
 	int option, option2, numOfTickect;
