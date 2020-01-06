@@ -41,6 +41,7 @@ void TrainList::addTrain(string trainNam,string trainRout,string trainTime, int 
 	ptr = NULL;
 }
 
+/* retrun the total trains in List*/
 int TrainList::getCountTrain()
 {
 	return countTrain;
