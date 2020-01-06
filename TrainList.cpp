@@ -18,6 +18,7 @@ TrainList::TrainList(cNode*& ptr)
 	countTrain = 1;
 }
 
+/* Add train function for adding the new train in train List*/
 void TrainList::addTrain(string trainNam,string trainRout,string trainTime, int far,int availableTickt)
 {
 	cNode* ptr = new cNode();
