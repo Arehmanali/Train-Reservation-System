@@ -1,11 +1,12 @@
 #include "cNodePassenger.h"
 
 
-
+/* seter function for ticket*/
 void cNodePassenger::setTickects(int tickect)
 {
 	tickects = tickect;
 }
+
 
 void cNodePassenger::setPassengerName(string name)
 {
