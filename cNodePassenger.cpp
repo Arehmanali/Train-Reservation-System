@@ -7,7 +7,7 @@ void cNodePassenger::setTickects(int tickect)
 	tickects = tickect;
 }
 
-
+/* setter function for passenger name*/
 void cNodePassenger::setPassengerName(string name)
 {
 	passengerName = name;
