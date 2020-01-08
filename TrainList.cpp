@@ -46,6 +46,8 @@ int TrainList::getCountTrain()
 {
 	return countTrain;
 }
+
+// Edit the train function 
 void TrainList::editExistingTrain(string trainNam)
 {
 	string name;
@@ -122,6 +124,7 @@ void TrainList::viewSoldTickect()
 	}
 }
 
+// To view the total sales of sold tickets
 void TrainList::viewTotalSale()
 {
 	cNode* rptr = upTrain;
