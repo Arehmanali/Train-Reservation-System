@@ -110,6 +110,7 @@ void TrainList::editExistingTrain(string trainNam)
 		}
 	}
 }
+// To check the Sold Tickets
 void TrainList::viewSoldTickect()
 {
 	cNode* rptr = upTrain;
