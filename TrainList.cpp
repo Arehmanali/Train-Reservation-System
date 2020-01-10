@@ -136,6 +136,7 @@ void TrainList::viewTotalSale()
 	}
 }
 
+// delete the train from list of trains by taking name of train as argument
 void TrainList::deleteTrain(string trainNam)
 {
 	if (!upTrain)
