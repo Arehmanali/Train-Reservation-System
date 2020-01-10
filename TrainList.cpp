@@ -164,6 +164,8 @@ void TrainList::deleteTrain(string trainNam)
 		countTrain--;
 	}
 }
+
+// print all the trains from the list 
 void TrainList::printTrain()
 {
 	if (!upTrain)
