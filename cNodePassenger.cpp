@@ -13,6 +13,7 @@ void cNodePassenger::setPassengerName(string name)
 	passengerName = name;
 }
 
+// setter function for setting id of passenger as taking string argument
 void cNodePassenger::setPassengerId(string id)
 {
 	passengerId = id;
