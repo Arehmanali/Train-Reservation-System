@@ -1,5 +1,5 @@
 #include "cNode.h"
-
+// default constructor for setting members to default value
 cNode::cNode()
 {
 	next = NULL;
