@@ -10,6 +10,7 @@ cNode::cNode()
 	availabeTickets = 0;
 }
 
+// setter function for setting train name by taking name as argument
 void cNode::setTrainName(string st)
 {
 	trainName = st;
