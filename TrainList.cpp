@@ -10,7 +10,7 @@ TrainList::TrainList()
 	countTrain = 0;
 }
 
-/ Parametric Constructor by taking a pointer as argument of node class*/
+/* Parametric Constructor by taking a pointer as argument of node class*/
 TrainList::TrainList(cNode*& ptr)
 {
 	upTrain = ptr;
