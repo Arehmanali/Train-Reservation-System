@@ -22,6 +22,7 @@ void cNode::setFare(int f)
 	fare = f;
 }
 
+// setter function for setting train time by taking a string argument
 void cNode::setTrainTiming(string tt)
 {
 	trainTiming = tt;
