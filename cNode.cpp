@@ -16,6 +16,7 @@ void cNode::setTrainName(string st)
 	trainName = st;
 }
 
+// stter function for setting fare of train by taking integer argument
 void cNode::setFare(int f)
 {
 	fare = f;
