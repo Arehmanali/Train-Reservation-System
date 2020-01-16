@@ -19,6 +19,7 @@ void cNodePassenger::setPassengerId(string id)
 	passengerId = id;
 }
 
+// getter function for getting passenger name
 string cNodePassenger::getPassengerName()
 {
 	return passengerName;
