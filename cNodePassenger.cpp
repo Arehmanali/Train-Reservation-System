@@ -25,6 +25,7 @@ string cNodePassenger::getPassengerName()
 	return passengerName;
 }
 
+// getter function for getting passenger id
 string cNodePassenger::getPassengerId()
 {
 	return passengerId;
