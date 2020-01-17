@@ -31,6 +31,7 @@ string cNodePassenger::getPassengerId()
 	return passengerId;
 }
 
+// getter function for getting total tickets of train
 int cNodePassenger::getTickects()
 {
 	return tickects;
