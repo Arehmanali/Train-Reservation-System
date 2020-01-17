@@ -37,6 +37,7 @@ int cNodePassenger::getTickects()
 	return tickects;
 }
 
+// default constructor for setting next pointer, name and id to null 
 cNodePassenger::cNodePassenger()
 {
 	nextP = NULL;
