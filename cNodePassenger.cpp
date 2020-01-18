@@ -45,7 +45,7 @@ cNodePassenger::cNodePassenger()
 	passengerId = "";
 }
 
-
+//destructor
 cNodePassenger::~cNodePassenger()
 {
 
