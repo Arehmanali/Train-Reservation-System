@@ -1,7 +1,7 @@
 #include "cNodePassenger.h"
 
 
-/* seter function for ticket*/
+/* seter function for ticket as taking integer argument*/
 void cNodePassenger::setTickects(int tickect)
 {
 	tickects = tickect;
