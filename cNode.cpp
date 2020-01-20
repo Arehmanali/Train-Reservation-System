@@ -28,6 +28,7 @@ void cNode::setTrainTiming(string tt)
 	trainTiming = tt;
 }
 
+// setter function for setting the name of train by taking name as argument
 void cNode::setTrainRoute(string tr)
 {
 	trainRoute = tr;
