@@ -34,6 +34,7 @@ void cNode::setTrainRoute(string tr)
 	trainRoute = tr;
 }
 
+Setter funtion for available tickets in a train by taking number of tickets as argument
 void cNode::setAvailableTickets(int at)
 {
 	availabeTickets = at;
