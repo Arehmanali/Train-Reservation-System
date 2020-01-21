@@ -40,6 +40,7 @@ void cNode::setAvailableTickets(int at)
 	availabeTickets = at;
 }
 
+/* getter function for getting the train name*/
 string cNode::getTrainName()
 {
 	return trainName;
