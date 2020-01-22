@@ -46,6 +46,7 @@ string cNode::getTrainName()
 	return trainName;
 }
 
+/* getter function for getting the train fare*/
 int cNode::getFare()
 {
 	return fare;
@@ -55,6 +56,7 @@ string cNode::getTrainTiming()
 {
 	return trainTiming;
 }
+
 
 string cNode::getTrainRoute()
 {
