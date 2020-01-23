@@ -64,6 +64,7 @@ string cNode::getTrainRoute()
 	return trainRoute;
 }
 
+/* getter function for getting the train available Tickets */
 int cNode::getAvailableTickets()
 {
 	return availabeTickets;
