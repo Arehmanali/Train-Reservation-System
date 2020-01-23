@@ -58,7 +58,7 @@ string cNode::getTrainTiming()
 	return trainTiming;
 }
 
-
+/* getter function for getting the train Route */
 string cNode::getTrainRoute()
 {
 	return trainRoute;
