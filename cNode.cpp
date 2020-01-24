@@ -70,7 +70,7 @@ int cNode::getAvailableTickets()
 	return availabeTickets;
 }
 
-
+/* destructor */
 cNode::~cNode()
 {
 }
