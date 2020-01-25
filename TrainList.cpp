@@ -3,7 +3,6 @@
 #include<string>
 #include<fstream>
 /*Default Constructor*/
-
 TrainList::TrainList()
 {
 	upTrain = NULL;
