@@ -47,7 +47,7 @@ int TrainList::getCountTrain()
 	return countTrain;
 }
 
-// Edit the train function 
+/* Edit the train function */ 
 void TrainList::editExistingTrain(string trainNam)
 {
 	string name;
