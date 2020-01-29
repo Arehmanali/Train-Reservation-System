@@ -124,7 +124,7 @@ void TrainList::viewSoldTickect()
 	}
 }
 
-// To view the total sales of sold tickets
+/* To view the total sales of sold tickets */
 void TrainList::viewTotalSale()
 {
 	cNode* rptr = upTrain;
